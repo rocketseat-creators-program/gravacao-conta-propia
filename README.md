@@ -1,8 +1,3 @@
-
-[![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/1SS4huO98AoOB3e3sLzB3IM2VwbsxpSVU/view?usp=sharing)
-
-
-
 ## Gravação por conta própria
 
 
@@ -10,6 +5,11 @@ Oi pessoal tudo bem com vocês 👋
 criei esse video  para ajudar vocês creators no processo de gravação do vídeo dos seus videos
 nele vou explicar exatamente o setup do meu OBS para que eu possa gravar as aulas com a melhor qualidade possível
 quais as configurações e cuidados que eu tenho antes de gravar.
+
+## Video Tutorial 
+
+[![Video](https://user-images.githubusercontent.com/7741167/122140128-bedd2d80-ce4a-11eb-909b-1ef111932366.png)](https://drive.google.com/file/d/1SS4huO98AoOB3e3sLzB3IM2VwbsxpSVU/view?usp=sharing)
+
 
 
 ## Ferramentas 🧰
